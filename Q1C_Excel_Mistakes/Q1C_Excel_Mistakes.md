@@ -1,6 +1,6 @@
 # Most common Excel mistakes
 
-Excel contains many different characters and patterns to follow.  It is very easy to skip over some essential componenets.
+Excel contains many different characters and patterns to follow.  It is very easy to skip over some essential components.
 
 Here is a list of Common Excel mistakes:
 1. Using multiple tables
