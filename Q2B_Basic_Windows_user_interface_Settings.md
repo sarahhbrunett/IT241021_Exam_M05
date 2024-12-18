@@ -29,3 +29,9 @@ https://www.dell.com/support/kbdoc/en-us/000149499/windows-10-video-settings#:~:
 
 https://www.pcworld.com/article/1782303/5-crucial-windows-11-settings-you-need-to-change-asap.html
 
+Here is an example of dark mode!
+
+![dark](https://github.com/user-attachments/assets/33e1e07e-d31c-4d46-baea-d19a9f801332)
+
+
+
